@@ -1,1 +1,1 @@
-AirBnB_clone Web Static
+AirBnB_clone 
